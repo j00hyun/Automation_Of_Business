@@ -1,0 +1,39 @@
+{
+  "object_type": "feed",
+  "content": {
+    "title": "http://naver.me/Fkpn6VuL",
+    "description": "",
+    "image_url": "https://i.ytimg.com/vi/XN41UJ7EZ4E/maxresdefault.jpg",
+    "image_width": 640,
+    "image_height": 640,
+    "link": {
+      "web_url": "http://www.daum.net",
+      "mobile_web_url": "http://m.daum.net",
+      "android_execution_params": "contentId=100",
+      "ios_execution_params": "contentId=100"
+    }
+  },
+  "social": {
+    "like_count": 100,
+    "comment_count": 200,
+    "shared_count": 300,
+    "view_count": 400,
+    "subscriber_count": 500
+  },
+  "buttons": [
+    {
+      "title": "",
+      "link": {
+        "web_url": "http://www.daum.net",
+        "mobile_web_url": "http://m.daum.net"
+      }
+    },
+    {
+      "title": "",
+      "link": {
+        "android_execution_params": "contentId=100",
+        "ios_execution_params": "contentId=100"
+      }
+    }
+  ]
+}
